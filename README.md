@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @danny99-eng
-- 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning python language and c++
-- 💞️ I’m looking to collaborate on programs to develop my skillset
-- 📫 How to reach me you can reach me via Gmail oluyemidan68@gmail.com
+👋 Hi, I’m @danny99-eng
+💡 A creative developer building AI-powered tools, web apps, and digital experiences.
+🚀 Currently working with Python, JavaScript, C++, and Supabase to bring ideas to life.
+🧠 Learning more about AI automation, frontend engineering, and cloud deployment.
+🎨 I also blend tech + creativity through graphics design, UI/UX, and color intelligence tools (e.g., SwatchGen).
+🤝 Open to collaborating on AI projects, web apps, APIs, and automation tools.
+📫 Reach me at oluyemidan68@gmail.com
 
 <!---
 danny99-eng/danny99-eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
